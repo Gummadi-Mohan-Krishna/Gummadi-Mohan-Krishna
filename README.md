@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Gummadi Mohan Krishna
+🎓 Student | 💻 Python Developer | 🤖 AI & Computer Vision Enthusiast
+
+---
+## 🚀 About Me
 
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
