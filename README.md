@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Gummadi Mohan Krishna
-🎓 Student | 💻 Python Developer | 🤖 AI & Computer Vision Enthusiast
+🎓 Student | 🐍 Exploring Python Full Stack Development | 🤖 GenAI & Quantum Computing Enthusiast
 
 ---
 ## 🚀 About Me
