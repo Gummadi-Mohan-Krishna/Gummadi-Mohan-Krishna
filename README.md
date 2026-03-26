@@ -19,7 +19,10 @@ negotiate (via counter offers), and approve collaborations based on agreed terms
 **Goals:**  
 * Create a secure channel between service providers and service seekers. 
 * Foster stronger and more sustainable business collaborations.
-🔹 Zero Shot Image Classification
+🔹 Cross-Domain Multimodal AI Diagnostic & Analytical Framework
+*  Engineered a unified multimodal pipeline leveraging CLIP (Contrastive Language-Image Pre-training) and BLIP (Bootstrapping 
+Language-Image Pre-training) to perform zero-shot classification and automated descriptive captioning across four critical 
+domains. 
 
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
