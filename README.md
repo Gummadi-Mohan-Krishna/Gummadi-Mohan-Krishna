@@ -15,7 +15,7 @@ and eager to leverage technical skills for impactful contributions in a dynamic 
 *  Developing a multi-organization B2B platform connecting service providers and service seekers.  
 * Service seekers(ex: DevOps, Testing, Maintenance, and more) can post project requirements, while service providers can view, 
 negotiate (via counter offers), and approve collaborations based on agreed terms. 
-  **Goals:**  
+&nbsp;&nbsp;**Goals:**  
 * Create a secure channel between service providers and service seekers. 
 * Foster stronger and more sustainable business collaborations.
 🔹 Zero Shot Image Classification
