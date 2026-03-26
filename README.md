@@ -12,6 +12,7 @@ and eager to leverage technical skills for impactful contributions in a dynamic 
 
 ## 📂 Projects
 🔹 BEAM(In progress)
+* asd
 🔹 Zero Shot Image Classification
 
 <!--
