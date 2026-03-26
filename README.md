@@ -25,6 +25,7 @@ negotiate (via counter offers), and approve collaborations based on agreed terms
 Language-Image Pre-training) to perform zero-shot classification and automated descriptive captioning across four critical 
 domains. 
 
+
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
