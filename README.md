@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a final-year Computer Science student with hands-on experience as a Software Intern at Enspirit Technology Services Pvt. Ltd. 
+Proficient in Python, JavaScript, and Django, with a strong foundation in OOP. Passionate about developing scalable, real-world solutions 
+and eager to leverage technical skills for impactful contributions in a dynamic team environment.
