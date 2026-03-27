@@ -29,6 +29,16 @@ domains.
 * Static Work Reminder App [🔗](https://gummadi-mohan-krishna.github.io/Work_Reminder_App_React/)
 * Tic Tac Toe Game [🔗](https://gummadi-mohan-krishna.github.io/Tic_Tac_Toe_/)
 * Rock Paper Scissors Game [🔗](https://gummadi-mohan-krishna.github.io/Rock-Paper-Scissors_MiniProject/)
+
+## 🛠️ My Tech Stack
+
+🧠 **Languages:** Python, JavaScript
+🖥️ **Frontend:** React, HTML, CSS
+⚙️ **Backend:** Node.js, Express.js, Django
+🛢️ **Databases:** SQL
+🧰 **Tools:** VS Code, Git, GitHub
+🔗 **API Design:** RESTful APIs
+
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
