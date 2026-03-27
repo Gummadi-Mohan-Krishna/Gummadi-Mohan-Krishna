@@ -30,6 +30,8 @@ domains.
 * Tic Tac Toe Game [🔗](https://gummadi-mohan-krishna.github.io/Tic_Tac_Toe_/)
 * Rock Paper Scissors Game [🔗](https://gummadi-mohan-krishna.github.io/Rock-Paper-Scissors_MiniProject/)
 
+---
+
 ## 🛠️ My Tech Stack
 
 🧠 **Languages:** Python, JavaScript
