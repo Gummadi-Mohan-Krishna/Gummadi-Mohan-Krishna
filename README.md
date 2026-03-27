@@ -32,12 +32,12 @@ domains.
 
 ## 🛠️ My Tech Stack
 
-🧠 **Languages:** Python, JavaScript
-🖥️ **Frontend:** React, HTML, CSS
-⚙️ **Backend:** Node.js, Express.js, Django
-🛢️ **Databases:** SQL
-🧰 **Tools:** VS Code, Git, GitHub
-🔗 **API Design:** RESTful APIs
+*🧠 **Languages:** Python, JavaScript
+*🖥️ **Frontend:** React, HTML, CSS
+*⚙️ **Backend:** Node.js, Express.js, Django
+*🛢️ **Databases:** SQL
+*🧰 **Tools:** VS Code, Git, GitHub
+*🔗 **API Design:** RESTful APIs
 
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
