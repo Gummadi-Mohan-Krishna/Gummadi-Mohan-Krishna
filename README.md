@@ -33,7 +33,6 @@ domains.
 ## 🛠️ My Tech Stack
 
 🧠 **Languages:** Python, JavaScript
-
 🖥️ **Frontend:** React, HTML, CSS
 
 ⚙️ **Backend:** Node.js, Express.js, Django
