@@ -26,7 +26,9 @@ Language-Image Pre-training) to perform zero-shot classification and automated d
 domains. 
 
 🔹**Other Mini Projects**
-****Work Reminder App****
+* Static Work Reminder App [🔗](https://gummadi-mohan-krishna.github.io/Work_Reminder_App_React/)
+* Tic Tac Toe Game [🔗](https://gummadi-mohan-krishna.github.io/Tic_Tac_Toe_/)
+* Rock Paper Scissors Game [🔗](https://gummadi-mohan-krishna.github.io/Rock-Paper-Scissors_MiniProject/)
 <!--
 **Gummadi-Mohan-Krishna/Gummadi-Mohan-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
