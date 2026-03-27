@@ -20,7 +20,7 @@ negotiate (via counter offers), and approve collaborations based on agreed terms
 * Create a secure channel between service providers and service seekers. 
 * Foster stronger and more sustainable business collaborations.
 
-🔹 **Cross-Domain Multimodal AI Diagnostic & Analytical Framework**
+🔹 **Cross-Domain Multimodal AI Diagnostic & Analytical Framework**[Link](https://huggingface.co/spaces/GSMK/zero-shot)
 *  Engineered a unified multimodal pipeline leveraging CLIP (Contrastive Language-Image Pre-training) and BLIP (Bootstrapping 
 Language-Image Pre-training) to perform zero-shot classification and automated descriptive captioning across four critical 
 domains. 
